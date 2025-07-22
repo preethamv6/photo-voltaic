@@ -80,18 +80,16 @@ servo.write(Spoint);
 
 ## 📸 Demo & Visuals
 
-Add a working photo or GIF in the `images/` folder and embed it like:
+The project images:
+[Solar Tracking Demo](Elec_EL.jpg)
 
-```markdown
-![Solar Tracking Demo](images/solar_tracking.jpg)
-```
 
 ---
 
 ## 📄 Report
 
 View the full documentation:  
-[docs/floating_pv_report.pdf](docs/floating_pv_report.pdf) _(Rename your uploaded DOCX to PDF and place it in the `/docs` folder)_
+[Elec_EL.docx](Elec_EL.docx) 
 
 ---
 
